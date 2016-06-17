@@ -1,0 +1,4 @@
+name: ar-core
+main: org.hyperfresh.angelsreach.AngelsReach
+version: 0.1
+permissions:
